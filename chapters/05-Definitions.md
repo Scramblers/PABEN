@@ -1,4 +1,4 @@
-# 4. Core Concepts and Definitions
+# 5. Core Concepts and Definitions
 
 This section defines the central concepts used in the PABEN model. The terms are used in a technical sense. The purpose is to stabilize the model vocabulary before the formal description is introduced.
 ###	Agent

@@ -1,4 +1,4 @@
-# 5. Formal Foundation
+# 6. Formal Foundation
 This section defines the static structure of the PABEN model. It describes what the model consists of before the live evaluation and process dynamics are introduced.
 The model treats an agent as a growing graph structure. At any time, the agent consists of domains, nodes, edges, and learned transition structures. The structures are activated dynamically during action, attention, learning, and reflection, but the purpose of this section is to define the underlying architecture.
 The five domains are:

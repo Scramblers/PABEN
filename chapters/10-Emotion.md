@@ -1,4 +1,4 @@
-# 9. Emotion, Self-Emotion, and Social Emotion
+# 10. Emotion, Self-Emotion, and Social Emotion
 
 The PABEN model treats emotion as the felt deformation of expectancy. Emotion is not added after cognition. Emotion is the control signal that appears when the viability of a belief-path changes. When the agent’s ability to continue through a belief is improved, opened, threatened, blocked, confirmed, lost, or socially judged, this change is felt as emotion.
 

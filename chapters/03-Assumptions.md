@@ -1,4 +1,4 @@
-# 2. Assumptions
+# 3. Assumptions
 
 The PABEN model rests on a small set of structural assumptions. These assumptions define how the model treats agency, perception, learning, emotion, attention, consciousness, and memory from the beginning. They are not added as later explanations. They are the commitments that make the model different from an architecture built around passive representation, abstract reasoning, error correction, or detached cognition.
 The central claim is that an agent is a continuity-seeking system. It must keep a viable path open from its current context, through possible action, toward need-regulation, avoidance, relief, repair, or fulfillment. The following cornerstones describe what follows from that starting point.

@@ -1,4 +1,4 @@
-# Preface
+# 1. Preface
 
 The PABEN model presented here is an independent theoretical attempt to describe cognition, agency, emotion, attention, and consciousness as parts of one integrated functional architecture.
 

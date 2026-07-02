@@ -1,4 +1,4 @@
-# 7. Process Layer
+# 8. Process Layer
 
 The static PABEN structure describes what the agent is made of: contexts, skills, beliefs, episodes, needs, and the relations between them. The process layer describes how this structure is used. An agent does not merely contain contexts, skills, and beliefs. It must continuously stabilize a path from the current Context-surface, through possible action, toward contexts in which need-regulation, avoidance, relief, repair, or fulfillment can be reached.
 

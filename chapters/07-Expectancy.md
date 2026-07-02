@@ -1,4 +1,4 @@
-# 6. Expectancy, X, and Expectancy Change, dX
+# 7. Expectancy, X, and Expectancy Change, dX
 
 The static foundation defines the structures of the PABEN model: contexts, skills, beliefs, episodes, needs, and the relations between them. The next layer defines how these structures are evaluated while the agent is alive and acting.
 

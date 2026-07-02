@@ -1,4 +1,4 @@
-# 8. Attention, Process Control, and Consciousness
+# 9. Attention, Process Control, and Consciousness
 
 The process layer described how the agent can stabilize continuation by moving forward, sideways, or upward through the PABEN structure. This chapter describes how the agent selects between those processes, how attention is directed, and why consciousness must occupy one functional space at a time. The model treats consciousness not as a separate substance, but as the active occupation of a process-domain under the demand of continuity. Where attention points, consciousness works.
 

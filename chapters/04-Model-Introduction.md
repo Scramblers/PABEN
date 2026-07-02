@@ -1,4 +1,4 @@
-# 3. Model Introduction
+# 4. Model Introduction
 
 The PABEN model describes an agent as a system that must continuously maintain a viable path from its present situation toward what matters. The model does not begin with representation, reasoning, emotion, or consciousness as separate problems. It begins with agency: the problem of how a living or artificial system continues from where it is, through what it can do, toward the regulation and fulfillment of its needs.
 

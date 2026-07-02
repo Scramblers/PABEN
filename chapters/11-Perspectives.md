@@ -1,4 +1,4 @@
-# 10. Perspectives, Scope, and Testability
+# 11. Perspectives, Scope, and Testability
 
 The PABEN model is proposed as a model of agentic intelligence: how a system preserves viable continuation from its current context, through possible action, toward need-regulation, avoidance, repair, relief, or fulfillment. If the model is useful, its scope should not be limited to narrow cognition. The same structure should illuminate emotion, attention, memory, social life, development, imagination, and the way agents create worlds of meaning.
 

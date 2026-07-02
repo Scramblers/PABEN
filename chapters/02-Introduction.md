@@ -1,4 +1,4 @@
-# 1. Introduction
+# 2. Introduction
 
 Any theory of intelligence must eventually answer a simple but demanding question: how does an agent continue?
 
