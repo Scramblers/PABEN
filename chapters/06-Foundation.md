@@ -212,11 +212,11 @@ The active need-state does not select action directly. It pressures Experience a
 Needs do not belong to Perception. Perception can recognize contexts related to a need, but the felt pressure belongs to $N$.
 For example:
 
-$$"feeling \; cold"∈N$$
+$$"feeling \ cold"∈N$$
 
 while:
 
-$$"open \; window"∈P$$
+$$"open \ window"∈P$$
 
 ## Belief Structure
 A belief is an action-belief. A belief is a structural binding between context requirements, skill preparation, and experience references.
@@ -260,7 +260,7 @@ $$B_{field} (t)⊆B_{total}$$
 
 Belief-field is released from Experience based on Context-surface and active Needs:
 
-$$B_{field} (t)=Release \; ⁡E (C_{surface} (t),N_{actual} (t))$$
+$$B_{field} (t)=Release \ ⁡E (C_{surface} (t),N_{actual} (t))$$
 
 The Belief-field contains the agent’s currently available ways forward.
 ### Belief-intended
@@ -385,7 +385,7 @@ These relations form the static basis for the later process descriptions.
 ## Structure Overview
 
 <p align="center">
-    <img src="../figures/Figure2.png" alt="PABEN structure"">
+    <img src="../figures/02-Domain-Architecture.png" alt="PABEN structure"">
 </p>
 
 *Figure 2: Static structure of the PABEN-model. The figure summarizes the static architecture used in the formal foundation. (a) The five domains are shown as inter-domain connections: Perception/Contexts (P), Action/Skills (A), Beliefs (B), Experience/Episodes (E), and Needs/Valence (N). Perception exposes a Context Surface to Experience, Needs provide Need Pressure, Experience releases a Belief Field, and an intended belief prepares skills while specifying required context. P and A are coupled through Skill–Context Recognition and Context–Skill Activation. (b) Contexts, Skills, and Needs are represented as internal graph structures with feature, sibling, and parent relations. (c) Beliefs are structured bindings between context and skill. A hypothetical belief is a possible C–S binding; an experienced belief is supported by prior episodes. (d) Experience is represented through episodes. An open episode contains a B-living: a promise that the current context can continue into a possible next context under*
@@ -411,7 +411,7 @@ The Belief-field, Belief-horizon, and Belief-blanket are not separate domains. T
 ### Belief-field
 The Belief-field is the current set of selectable beliefs released from Experience:
 
-$$B_{field} (t)=B_i∈B∣B_i \ is\ released\ by\;  E(C_{surface} (t),N_{actual} (t))$$
+$$B_{field} (t)=B_i∈B∣B_i \ is\ released\ by\  E(C_{surface} (t),N_{actual} (t))$$
 
 It defines what the agent can choose now.
 ### Belief-horizon

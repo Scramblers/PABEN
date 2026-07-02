@@ -9,7 +9,7 @@ The disturbing processes are Need and Perception. Need disturbs from within by c
 The process layer is therefore governed by one central question: can the current belief still be lived? If yes, Recognize–Execute continues. If the belief can continue but requires variant-stabilization, Try–Observe takes over. If the current route loses coherence, Reflection searches for a new hook. If Need-pressure rises or Perception reveals a destabilizing surface, the system must re-evaluate X and select the process required to preserve continuation.
 
 <p align="center">
-    <img src="../figures/Figure3.png" alt="Proces Activation">
+    <img src="../figures/03-Process-Connections.png" alt="Proces Activation">
 </p>
 
 *Figure 3: Process activation and hierarchical cascade in the PABEN-model. The figure shows how a live process is expressed as coordinated activation across Context-surface, Experience, Belief-field, Belief-intention, prepared Skill, required Context, and Need-pressure. The dashed red arrows indicate downward cascade activation, where a higher-level prepared skill primes lower-level belief/skill structures required for execution.*

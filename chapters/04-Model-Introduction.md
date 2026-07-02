@@ -7,7 +7,7 @@ The basic assumption is that intelligence is not primarily the manipulation of d
 The model is organized around five functional domains: Perception, Action, Beliefs, Experience, and Needs (Figure 1). These domains form the acronym PABEN.
 
 <p align="center">
-    <img src="../figures/Figure1.png" alt="PABEN overview" width="80%">
+    <img src="../figures/01-Main-Flow.png" alt="PABEN overview" width="80%">
 </p>
 
 *Figure 1: The PABEN model domains and inter-domain connections. The world is felt through bodily Need-features, perceived through sensory features, and manipulated through motor features. Need-pressure opens Experience by activating prior episodes with relevant felt need-consequences. Contexts are recognized in relation to available Skill and Belief structures. Experience releases a Belief-field of candidate beliefs with expectancy-contribution toward regulation, avoidance, relief, repair, or fulfillment. Belief-expectancy selects the Belief-intended and prepares the corresponding Skill-structure for release. The belief remains active until a new Context-surface exposes a better belief, or until the current belief breaks.*
