@@ -40,7 +40,7 @@ I am especially interested in:
 - whether the model makes testable predictions;
 - where the architecture is incoherent, redundant, or already refuted.
 
-The full working manuscript is available here: [link]
+The full working manuscript is available here: [link](/chapters/00-Contents.md)
 
 ## License
 
