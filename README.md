@@ -1,16 +1,53 @@
 # PABEN
 A Process Architecture for Agentic Continuity
 
-This repository contains the PABEN model: an exploratory architecture of agency, emotion, belief, experience, and need.
 
-The purpose of publishing this material is to make it available for others to inspect, formalize, implement, criticize, reuse, or develop further.
+## Abstract
+PABEN is an exploratory process architecture for agentic continuity. The model proposes that an agent can be understood as a system that preserves viable continuation through five interacting domains: Perception, Action, Belief, Experience, and Need.
 
-I do not currently intend to maintain this as an active software project. Contributions, forks, comments, and independent implementations are welcome, but the material is shared primarily as an open research seed.
+Perception recognizes the current context. Action prepares and releases skills. Belief selects live action-context routes: “do this skill while this context holds.” Experience stores lived transitions from one context, through a belief, into another context. Need supplies bodily or structural pressure, making some continuations matter.
 
-If you find the model useful, feel free to build on it.
+The central evaluative variable is expectancy, $X$, which estimates whether a belief-route can carry. In the current formulation, $X$ combines Trustability, Executability, Reachability, and Value. Emotion is modeled as deformation of expectancy, $dX$: the felt change in the viability of a lived or expected route. This allows emotion, attention, learning, reflection, and social regulation to be described as parts of the same continuity-preserving control system.
+
+PABEN is not presented as a finished theory. It is a candidate architecture intended for criticism, formalization, implementation, and possible refutation. A useful next step would be to build computational agents with explicit Contexts, Skills, Beliefs, Experience episodes, Need-pressure, and expectancy-based process switching, then test whether the architecture explains or produces coherent agentic behavior better than simpler alternatives.
+
+The purpose of publishing this material is to make the model available as an open research seed. Researchers, engineers, independent thinkers, and AI alignment contributors are invited to inspect, challenge, formalize, simulate, or extend it.
+
+
+## Why this may matter for alignment
+
+If alignment is partly about making advanced AI systems compatible with human values, then we need a good account of what values are embedded in. PABEN suggests that values are not isolated preference labels, but live structures across need-pressure, context recognition, action capacity, memory of lived transitions, and belief-route viability.
+
+From this perspective, an aligned agent is not merely one that optimizes the right objective. It is one whose route-selection, learning, attention, and process-switching remain compatible with the continuity of the humans and systems it affects.
+
+## Minimal implementation challenge
+
+A minimal PABEN-inspired agent would contain explicit Contexts, Skills, Beliefs, Experience episodes, Need-pressure, and an expectancy function:
+
+$$X = T \cdot Q \cdot R \cdot V$$
+
+The agent should select belief-routes by expectancy, update those estimates through lived episodes, and switch between execution, exploration, and reflection when expectancy destabilizes.
+
+The useful test is not whether the terminology sounds plausible, but whether the architecture can be implemented, compressed, falsified, or shown to be unnecessary.
+
+## Feedback I am looking for
+
+I am especially interested in:
+
+- whether this resembles existing work in agent foundations, active inference, reinforcement learning, cognitive architectures, or computational neuroscience;
+- whether the $X$ formulation is mathematically salvageable;
+- whether the process distinctions are implementable;
+- whether the model makes testable predictions;
+- where the architecture is incoherent, redundant, or already refuted.
+
+The full working manuscript is available here: [link]
 
 ## License
 
 Text, diagrams, and conceptual material are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
+I do not currently intend to maintain this as an active software project. Contributions, forks, comments, and independent implementations are welcome, but the material is shared primarily as an open research seed.
+
 Code, if added later, should be licensed separately.
+
+If you find the model useful, feel free to build on it.
