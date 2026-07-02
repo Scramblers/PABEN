@@ -2,8 +2,6 @@
 
 *Literature review and anatomical working hypothesis*
 
-Version 1 - English Markdown translation of the biological deep dive, updated from the earlier AC terminology to the current PABEN terminology: P/A symmetry, processual flow regimes, Try-Observe as variant formation, and zip execution.
-
 | Reading Note |
 |---|
 | This document is a literature-oriented review. It first summarizes what neurobiology typically describes, and then explains how the PABEN model relates to the theme if the model is assumed. The purpose is not to prove PABEN biologically, but to assess the alignment between the model's functional structure and the brain's documented circuitry. |
