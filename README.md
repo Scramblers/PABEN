@@ -40,7 +40,31 @@ I am especially interested in:
 - whether the model makes testable predictions;
 - where the architecture is incoherent, redundant, or already refuted.
 
+And if it makes sense at all...
+
+## Full Manuscript
+
 The full working manuscript is available here: [link](/chapters/00-Contents.md)
+
+The manuscript introduces the model, its core assumptions, formal structures, process layer, emotion model, social-emotional layer, consciousness account, broader perspectives, testability criteria, and remaining refinement tasks.
+
+## Studies
+
+The studies/ folder contains supporting deep-dives and literature-oriented explorations. Their purpose is to place PABEN in relation to existing research areas and to ask whether the model offers a useful mechanical reading of known phenomena.
+
+Current study themes include:
+
+- biological plausibility;
+- developmental science alignment;
+
+
+## AI-Assisted Development
+
+This material was developed with substantial AI assistance. AI tools were used for drafting, restructuring, translation, terminology refinement, critique, and iterative formulation.
+
+The conceptual responsibility remains with the author. The model should therefore be evaluated as an authored, AI-assisted research artifact: useful where its structure, arguments, distinctions, and implementation proposals hold up; weak where they do not.
+
+AI assistance is disclosed here because transparency matters, especially for a project concerned with agency, cognition, and AI alignment.
 
 ## License
 
