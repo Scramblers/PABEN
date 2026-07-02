@@ -70,7 +70,7 @@
 - Emotional Learning and Episode Update
 
 #### 11. [Perspectives, Scope, and Testability](/chapters/11-Perspectives.md)
-- Toward Universal Intelligence
+- General Intelligence
 - Society, Shared Beliefs, and Power
 - Religiosity and the Perception of Agency
 - Technology, Artificial Intelligence, and Constructed Agency
@@ -78,3 +78,4 @@
 - What Would Refute the Model?
 - Closing Perspective
 
+#### 12. [Refinement and Implementation](/chapters/12-Implementation.md)
