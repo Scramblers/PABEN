@@ -8,3 +8,9 @@ The purpose of publishing this material is to make it available for others to in
 I do not currently intend to maintain this as an active software project. Contributions, forks, comments, and independent implementations are welcome, but the material is shared primarily as an open research seed.
 
 If you find the model useful, feel free to build on it.
+
+## License
+
+Text, diagrams, and conceptual material are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Code, if added later, should be licensed separately.
