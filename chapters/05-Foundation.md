@@ -33,6 +33,7 @@ The domains are not independent modules. They are graph domains in one agent arc
 
 ## The Agent as a Growing Graph
 Let the agent at time  t be described as:
+
 $$\mathcal{A}(t)=(P(t),A(t),B(t),E(t),N(t),\mathcal{R}(t))$$
 
 where $\mathcal{R}(t)$ is the set of learned relations between nodes across the domains.
@@ -42,6 +43,7 @@ $$\mathcal{A}(0)=(P_0,A_0,B_0,E_0,N_0,\mathcal{R}_0 )$$
 
 Here, $P_0$ contains primitive context capacity, $A_0$ contains primitive action capacity, and $N_0$ contains primitive need pressure or fulfillment profiles. $B_0$ and $E_0$ contain no developed routes. The agent has not yet learned differentiated context-skill-belief-experience structure.
 At t=now, the agent is the accumulated result of its own history:
+
 $$\mathcal{A}(now)=(P_{now},A_{now},B_{now},E_{now},N_{now},\mathcal{R}_{now} )$$
 
 The development from $t=0$ to $t=now$ is the expansion of the agent’s usable structure. Contexts become differentiated. Skills become executable. Beliefs bind contexts and skills. Experience stores transitions. Needs give direction and valence to the learned routes.
@@ -49,6 +51,7 @@ The agent’s development is therefore also the expansion of its Belief-horizon:
 
 ## Domains
 Each domain is represented as a graph:
+
 $$
 P = (\mathcal{C}, \mathcal{R}_P)
 $$
@@ -95,10 +98,11 @@ $$P=(\mathcal{C},\mathcal{R}_P )$$
 where $R_P$ contains context-context relations such as hierarchy, part-whole relations, feature-context relations, cause-context relations, and parent-child context relations.
 A context can be low-level and concrete:
 
-$$C="cold \; surface"$$
+$$C="cold \ surface"$$
+
 or high-level and abstract:
 
-$$C="social \; gathering"$$
+$$C="social \ gathering"$$
 
 The context graph is hierarchical. Lower-level contexts can activate higher-level contexts when they are recognized as belonging together. Higher-level contexts can carry lower-level contexts as supporting structure.
 The model distinguishes several context sets.
@@ -128,7 +132,7 @@ If recognition produces:
 
 $$C_1→C_2→C_3$$
 
-and C_3 has no active parent, then C_3 belongs to C_surface (t). The lower contexts remain active as supporting structure, but they do not all project into Experience as independent belief-openers.
+and $C_3$ has no active parent, then $C_3$ belongs to $C_{surface} (t)$. The lower contexts remain active as supporting structure, but they do not all project into Experience as independent belief-openers.
 ### Context-carrier
 Context-carrier is the context-vector that supports the currently intended belief:
 
@@ -156,11 +160,11 @@ $$A=(\mathcal{S},\mathcal{R}_A )$$
 where $\mathcal{R}_A$ contains skill-skill relations such as hierarchy, prerequisite structure, sequence structure, part-whole relations, and preparation-release relations.
 A skill can be primitive:
 
-$$S="move \; hand"$$
+$$S="move \ hand"$$
 
 or complex:
 
-$$S="write \; an \; argument"$$
+$$S="write \ an \ argument"$$
 
 Skills become usable through their relation to contexts and beliefs.
 The model distinguishes skill states.
@@ -302,7 +306,7 @@ The order matters. The model does not treat Experience as a neutral context tran
 The core experiential structure is therefore:
 
 $$
-C_{from} \xrightarrow{B_{lived}(N_{felt})} C_{to}
+C_{from} \overset{B_{lived}(N_{felt})}{\longrightarrow} C_{to}
 $$
 
 or, more compact:
@@ -378,6 +382,8 @@ $$B↔E$$
 Belief support by experience references.
 These relations form the static basis for the later process descriptions.
 
+## Structure Overview
+
 <p align="center">
     <img src="../figures/Figure2.png" alt="PABEN structure"">
 </p>
@@ -405,7 +411,7 @@ The Belief-field, Belief-horizon, and Belief-blanket are not separate domains. T
 ### Belief-field
 The Belief-field is the current set of selectable beliefs released from Experience:
 
-$$B_{field} (t)=B_i∈B∣B_i \; is\; released\; by\;  E(C_{surface} (t),N_{actual} (t))$$
+$$B_{field} (t)=B_i∈B∣B_i \ is\ released\ by\;  E(C_{surface} (t),N_{actual} (t))$$
 
 It defines what the agent can choose now.
 ### Belief-horizon
