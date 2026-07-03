@@ -1,7 +1,12 @@
 # Universal Intelligence as Repeatable Displacement
 
-A PABEN Study on Regulation, Continuity and Physical Organization
+## A PABEN Study on Regulation, Continuity and Physical Organization
 
+**Author:** Niels Christoffer Poulsen  
+**Status:** Speculative study / working hypothesis  
+**Date:** July 2026
+
+---
 
 ## Abstract
 
@@ -11,7 +16,6 @@ In PABEN terms, the hypothesis is that a stable physical system can be read as a
 
 The study is related to several existing traditions, including non-equilibrium thermodynamics, autopoiesis, relational quantum mechanics, the free energy principle, autocatalytic set theory and information-based approaches to physics. These frameworks do not imply PABEN, and PABEN does not claim to replace them. They do, however, show that relation, regulation, boundary maintenance, physical information and self-maintaining organization are legitimate scientific themes.
 
----
 
 ## 1. Framing
 
@@ -27,7 +31,6 @@ The guiding hypothesis is:
 
 > Intelligence, in its most minimal and non-psychological form, may be understood as the conversion of unstable possibility into usable continuation through repeatable displacement.
 
----
 
 ## 2. Core Observation
 
@@ -55,7 +58,6 @@ unstable field or system
 
 In this study, *organism-like* means only that a system maintains an inside/outside distinction through repeatable regulation. It does not imply life, consciousness or subjective experience.
 
----
 
 ## 3. PABEN Translation
 
@@ -73,7 +75,6 @@ The PABEN translation can be stated as follows:
 
 This translation deliberately weakens the ordinary meanings of the terms. A physical Belief is not a mental belief. It is a repeatable regulatory relation. Physical Experience is not recollection. It is retained constraint: the fact that an interaction has left the system with altered future possibilities.
 
----
 
 ## 4. Field-Layer Table
 
@@ -89,7 +90,6 @@ The following table is a speculative PABEN interpretation of several physical la
 
 The dark-sector row is the most speculative and should be treated as a placeholder hypothesis. It is included because the PABEN lens naturally asks whether cosmic structure requires a large-scale balance between place-opening and place-holding. This is not a proposed replacement for cosmological models of dark matter or dark energy.
 
----
 
 ## 5. Physical Phenomena as Regulatory Questions
 
@@ -103,7 +103,6 @@ Superposition may be read as an open field of possible continuations before a sh
 
 These formulations are interpretive. They should not be confused with formal derivations. The value of the PABEN reading would depend on whether it can later produce clearer predictions, simulations or mathematical constraints.
 
----
 
 ## 6. Relation to Existing Work
 
@@ -123,7 +122,6 @@ Stuart Kauffman and later RAF theory describe how self-sustaining autocatalytic 
 
 The common thread is not that these authors agree with one another. They do not. The common thread is that modern science repeatedly encounters systems whose identity depends on relation, boundary, exchange, history, constraint and self-maintaining organization.
 
----
 
 ## 7. Hypothesis
 
@@ -137,7 +135,6 @@ In PABEN language:
 
 This does not require consciousness. It does require recurrence, constraint and regulatory closure.
 
----
 
 ## 8. What Would Make the Hypothesis Stronger?
 
@@ -151,7 +148,6 @@ The hypothesis becomes stronger if it can be connected to formal or computationa
 
 The last point is essential. A sober study must allow the possibility that PABEN is only a useful metaphor unless it produces new structure, simulation results or formal constraints.
 
----
 
 ## 9. Main Risks
 
@@ -167,7 +163,6 @@ For that reason, *universal intelligence* should be understood here as a technic
 
 > Universal intelligence means repeatable continuity-preserving transformation, not mind, consciousness, planning or human-like cognition.
 
----
 
 ## 10. Conclusion
 

@@ -1,5 +1,11 @@
 # Developmental Research and the PABEN Model
 
+**Author:** Niels Christoffer Poulsen  
+**Status:** Speculative study / working hypothesis  
+**Date:** July 2026
+
+---
+
 This review examines recent and central developmental research relevant to the PABEN model. The purpose is not to prove the model from the literature, but to map what the field currently emphasizes, which phenomena recur across the field, and how the PABEN model relates to those phenomena if the model is assumed.
 
 First: what does the field say? Then: how would PABEN understand this?

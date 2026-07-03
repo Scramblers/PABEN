@@ -57,6 +57,7 @@ Current study themes include:
 - Biological Plausibility
 - Developmental Science Alignment
 - Universal Intelligence as Repeatable Displacement
+- Social Emotion, Attractors, Aversion and Emergent Regulation
 
 
 ## AI-Assisted Development

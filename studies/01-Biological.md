@@ -1,7 +1,12 @@
 # Biological Plausibility in the PABEN Model
 
-*Literature review and anatomical working hypothesis*
+## Literature review and anatomical working hypothesis*
 
+**Author:** Niels Christoffer Poulsen  
+**Status:** Speculative study / working hypothesis  
+**Date:** July 2026
+
+---
 
 
 ## 1. Purpose and Core Hypothesis
