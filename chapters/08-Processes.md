@@ -29,7 +29,7 @@ In this process, the agent does not need to know a predefined final endpoint. Th
 
 $$Ep_j=(C_{from},B_{lived},N_{felt},C_{to} )$$
 
-The important point is that C_to does not need to be specified in advance. It is the context-state reached when the agent changes gear. Experience stores the lived transition, not a pre-written script.
+The important point is that $C_{to}$ does not need to be specified in advance. It is the context-state reached when the agent changes gear. Experience stores the lived transition, not a pre-written script.
 
 Recognize–Execute is fluent when the four components of expectancy remain sufficiently high. Trustability is high when the required context can be held as usable carrier. Executability is high when the prepared skill can be released as the same executable pattern. Reachability is high when the opened Belief-blanket contains a route to the relevant valence-bearing context-field. Value is high when the route matters for need-regulation, avoidance, relief, repair, or fulfillment. When these components hold, the agent continues forward without conscious restructuring.
 

@@ -50,12 +50,13 @@ The manuscript introduces the model, its core assumptions, formal structures, pr
 
 ## Studies
 
-The studies/ folder contains supporting deep-dives and literature-oriented explorations. Their purpose is to place PABEN in relation to existing research areas and to ask whether the model offers a useful mechanical reading of known phenomena.
+The studies/ folder contains supporting deep-dives and exploration of possible interpretation with the PABEN model. Their purpose is to place PABEN in relation to existing research areas and to ask whether the model offers a useful mechanical reading of known phenomena.
 
 Current study themes include:
 
-- biological plausibility;
-- developmental science alignment;
+- Biological Plausibility
+- Developmental Science Alignment
+- Universal Intelligence as Repeatable Displacement
 
 
 ## AI-Assisted Development
