@@ -292,7 +292,7 @@ These phenomena matter because they change the real X-landscape while often pres
 | Social organization | Honored X-increase by route-opening agents | Collective action and representation | Detached authority, loyalty pressure |
 | Institution | Stored social X-regulation | Long-term coordination | Bureaucratic aversion, corruption |
 | Society | Overlapping shared X-fields | Large-scale continuation | Structural conflict |
-| Religion | Externalized X-regulation | Meaning, forgiveness, hope | Sacred fear, exclusion, blocked repair |
+
 
 
 ## 14. Limits

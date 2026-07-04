@@ -70,9 +70,7 @@
 - Emotional Learning and Episode Update
 
 #### 11. [Perspectives, Scope, and Testability](/chapters/11-Perspectives.md)
-- General Intelligence
-- Society, Shared Beliefs, and Power
-- Religiosity and the Perception of Agency
+- Intelligence
 - Technology, Artificial Intelligence, and Constructed Agency
 - Testability and Refutability
 - What Would Refute the Model?
