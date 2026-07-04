@@ -42,6 +42,14 @@ I am especially interested in:
 
 And if it makes sense at all...
 
+## Discussions
+
+I welcome feedback in the repository's Discussions forum.
+
+The most helpful comments are those that make the model clearer, sharper, or easier to test: unclear passages, internal inconsistencies, missing assumptions, relevant references, technical objections, possible simulations, and small corrections are all valuable.
+
+There are separate discussion threads for general impressions, clarity and consistency, technical model input, study/simulation ideas, and errata.
+
 ## Full Manuscript
 
 The full working manuscript is available here: [link](/chapters/00-Contents.md)
