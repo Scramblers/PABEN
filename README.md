@@ -44,7 +44,7 @@ And if it makes sense at all...
 
 ## Discussions
 
-I welcome feedback in the repository's Discussions forum.
+I welcome feedback in the repository's Discussions forum, where I will be happy to clarify and elaborate on my thoughts.
 
 The most helpful comments are those that make the model clearer, sharper, or easier to test: unclear passages, internal inconsistencies, missing assumptions, relevant references, technical objections, possible simulations, and small corrections are all valuable.
 
