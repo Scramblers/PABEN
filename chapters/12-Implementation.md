@@ -60,7 +60,7 @@ The social layer remains one of the most important but least implemented parts o
 
 A minimal multi-agent implementation should allow one agent’s action to affect another agent’s context, route, access, or Need-regulation. This would make it possible to model recognition, gratitude, guilt, shame, anger, forgiveness, exclusion, love, and trust as changes in shared expectancy rather than as isolated labels.
 
-The key implementation challenge is to represent shared contexts and dependency. Which beliefs are jointly carried? Which routes depend on another agent? When does another agent become part of one’s own Reachability or Value structure?
+The key implementation challenge is to represent shared contexts and dependency. Which beliefs are jointly carried? Which routes depend on another agent? When does another agent become part of one’s own Reachability or Valencability structure?
 
 ### 7. Testing, Refutation, and Comparison to Simpler Models
 

@@ -15,7 +15,7 @@ $$Q=Executability$$
 
 $$R=Reachability$$
 
-$$V=Value$$
+$$V=Valencability$$
 
 Each component describes one necessary dimension of path viability.
 
@@ -73,8 +73,8 @@ With multiple active Needs, each Need activates fulfillment history in Experienc
 
 Thus R is not a global search through all possible futures. R is the coherence of the promise-blanket opened in E between the current Context-surface and the Need-relevant target-context. The agent does not need to calculate every possible path. It needs enough light through the blanket from surface to target. When the light holds, the agent can continue. When it dims, ambiguity rises. When it breaks, Reflection must find a new hook or open a new blanket.
 
-## Value, V
-Value is access to valence, regulation, or fulfillment.
+## Valencability, V
+Valencability is access to valence, regulation, or fulfillment.
 
 V asks whether the belief-path matters. A path matters when it preserves, restores, approaches, avoids, transforms, or protects access to fulfillment.
 

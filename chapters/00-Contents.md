@@ -27,7 +27,7 @@
 - Trustability, T
 - Executability, Q
 - Reachability, R
-- Value, V
+- Valencability, V
 - X as path viability
 - Need as X-drop
 - X greater than zero

@@ -2,7 +2,7 @@
 
 The PABEN model treats emotion as the felt deformation of expectancy. Emotion is not added after cognition. Emotion is the control signal that appears when the viability of a belief-path changes. When the agent’s ability to continue through a belief is improved, opened, threatened, blocked, confirmed, lost, or socially judged, this change is felt as emotion.
 
-Expectancy, X, expresses the viability of a belief-path through Trustability, Executability, Reachability, and Value:
+Expectancy, X, expresses the viability of a belief-path through Trustability, Executability, Reachability, and Valencability:
 
 $$X=T⋅Q⋅R⋅V$$
 
@@ -41,7 +41,7 @@ A promise is the state of a belief when it has become intended but has not yet b
 
 The promise is not verbal. It is structural. A belief promises that from this context, through this skill, a route can be lived toward a context where something can be handled. In compact form, the belief binds a required context and a prepared skill. When it is lived, it becomes an episode. Until it is closed, it is a promise.
 
-The promise creates exposure. While a belief is open, the agent is vulnerable to what happens to the route. If Trustability falls, the context no longer carries. If Executability falls, the skill no longer holds. If Reachability falls, the route no longer reaches the valence-bearing field. If Value falls, the route no longer matters or no longer relieves the active pressure. Each deformation changes the felt state of the agent.
+The promise creates exposure. While a belief is open, the agent is vulnerable to what happens to the route. If Trustability falls, the context no longer carries. If Executability falls, the skill no longer holds. If Reachability falls, the route no longer reaches the valence-bearing field. If Valencability falls, the route no longer matters or no longer relieves the active pressure. Each deformation changes the felt state of the agent.
 
 This explains why emotion is inseparable from action. To intend a belief is to expose oneself to the possibility that the world carries or fails to carry it. The agent does not merely think about the promise. It lives it. Emotion is the felt monitoring of whether the promise remains viable.
 
@@ -75,7 +75,7 @@ The social layer therefore interprets dX through four belief-dimensions: action/
       <th colspan="2">Executability / Q<br><em>Skill stability</em></th>
       <th colspan="2">Trustability / T<br><em>Context stability</em></th>
       <th colspan="2">Reachability / R<br><em>Access and continuation</em></th>
-      <th colspan="2">Value / V<br><em>Fulfillment access</em></th>
+      <th colspan="2">Valencability / V<br><em>Fulfillment access</em></th>
     </tr>
     <tr>
       <th>I act</th>
@@ -133,7 +133,7 @@ The social layer therefore interprets dX through four belief-dimensions: action/
 </table>
 
 
-*Table 2: Social emotions as overlays on shared belief-dependencies. The table shows how the basis-emotion mechanism extends into social emotion. Social emotions arise when changes in expectancy occur inside belief-fields that are shared with, dependent on, or judged by another agent or group. The same four expectancy dimensions apply: Trustability, Executability, Reachability, and Value. A social emotion appears only where the agent has dependency on the relevant dimension. The table therefore maps social emotions as dimension-specific deformations of shared belief-stability: action and skill contribution, context preservation or disturbance, access and recognition, and fulfillment through attachment, care, or shared presence. The basic emotion layer remains active underneath; the social layer specifies when the deformation of expectancy becomes socially structured. Parentheses indicate the coupled or reciprocal social position in the same dependency relation.*
+*Table 2: Social emotions as overlays on shared belief-dependencies. The table shows how the basis-emotion mechanism extends into social emotion. Social emotions arise when changes in expectancy occur inside belief-fields that are shared with, dependent on, or judged by another agent or group. The same four expectancy dimensions apply: Trustability, Executability, Reachability, and Valencability. A social emotion appears only where the agent has dependency on the relevant dimension. The table therefore maps social emotions as dimension-specific deformations of shared belief-stability: action and skill contribution, context preservation or disturbance, access and recognition, and fulfillment through attachment, care, or shared presence. The basic emotion layer remains active underneath; the social layer specifies when the deformation of expectancy becomes socially structured. Parentheses indicate the coupled or reciprocal social position in the same dependency relation.*
 
 Table 2 shows how social emotions arise when expectancy changes across shared belief-dimensions. The same dX mechanism remains active, but the deformation is interpreted through dependency on another agent or group.
 

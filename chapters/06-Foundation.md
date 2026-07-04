@@ -46,7 +46,8 @@ At t=now, the agent is the accumulated result of its own history:
 
 $$\mathcal{A}(now)=(P_{now},A_{now},B_{now},E_{now},N_{now},\mathcal{R}_{now} )$$
 
-The development from $t=0$ to $t=now$ is the expansion of the agent’s usable structure. Contexts become differentiated. Skills become executable. Beliefs bind contexts and skills. Experience stores transitions. Needs give direction and valence to the learned routes.
+The development from $t=0$ to $t=now$ is the expansion of the agent’s usable structure. Contexts become differentiated. Skills become executable. Beliefs bind contexts and skills. Experience stores transitions. Needs provide felt pressure and felt feedback; Experience binds these need-consequences to learned routes.
+
 The agent’s development is therefore also the expansion of its Belief-horizon: the growing ability to hold more abstract, indirect, and stable routes toward future valence.
 
 ## Domains
@@ -192,7 +193,7 @@ $$S_{released} (t)⊆S_{prepared} (t)$$
 The model keeps intention in the belief domain. Skills are prepared and released; beliefs are intended.
 
 ## Need Structure
-Needs are the domain of pressure, valence, and fulfillment.
+Needs are the domain of felt regulatory pressure and feedback.
 Need nodes belong to the Need domain:
 
 $$N_i∈\mathcal{N}$$
@@ -201,12 +202,12 @@ The need graph is:
 
 $$N=(\mathcal{N},\mathcal{R}_N )$$
 
-A Need is a regulator or fulfillment profile that can create pressure for continuation. Needs make paths matter.
+A Need is a regulatory profile that can become active as pressure and registered as felt feedback. Needs make paths matter.
 
-A Need can concern bodily regulation, relief, appetite, threat, attachment, social stability, curiosity, repair, or other fulfillment structures.
+A Need can concern bodily regulation, relief, appetite, attachment, social stability, curiosity, repair, or other fulfillment structures.
 At time $t$, the active need-state is:
 
-$$N_{actual} (t)⊆\mathcal{N}$$
+$$N_{pressure} (t)⊆\mathcal{N}$$
 
 The active need-state does not select action directly. It pressures Experience and Belief-selection by making some continuations matter more than others.
 Needs do not belong to Perception. Perception can recognize contexts related to a need, but the felt pressure belongs to $N$.
@@ -260,7 +261,7 @@ $$B_{field} (t)⊆B_{total}$$
 
 Belief-field is released from Experience based on Context-surface and active Needs:
 
-$$B_{field} (t)=Release \ ⁡E (C_{surface} (t),N_{actual} (t))$$
+$$B_{field} (t)=Release \ ⁡E (C_{surface} (t),N_{pressure} (t))$$
 
 The Belief-field contains the agent’s currently available ways forward.
 ### Belief-intended
@@ -313,7 +314,7 @@ or, more compact:
 
 $$E_j=(C_{from},B_{lived},N_{felt},C_{to} )$$
 
-This makes the Belief–Need connection explicit inside Experience. A belief becomes experienced as useful, dangerous, relieving, disappointing, threatening, or stabilizing because its use has been bound to a need-related consequence.
+This makes the Belief–Need connection explicit inside Experience. A belief becomes experienced as bound to N-felt outcomes; Experience and expectancy later evaluate these as useful, dangerous, disappointing, relieving because its use has been bound to a need-related consequence.
 
 Experience is structured consequence. It stores routes by linking contexts, beliefs, need outcomes, and resulting contexts.
 
@@ -336,7 +337,7 @@ $$Ep(B_i )=Ep_j∈\mathcal{EP}∣B_{lived} (Ep_j )=B_i$$
 
 Third, it releases possible beliefs into the Belief-field when a relevant Context-surface and Need-state are active:
 
-$$E(C_{surface},N_{actual} )→B_{field}$$
+$$E(C_{surface},N_{pressure} )→B_{field}$$
 
 Experience therefore connects past need-relevant transitions to present possible action.
 A belief without episodes can exist as a newly formed or speculative binding, but it has no realized route-strength until it has been used and bound to need-related consequence.
@@ -438,7 +439,7 @@ This movement is the gradual differentiation and connection of:
 
 $$C→S→B→E→N$$
 
-and the reverse structuring from valence-bearing outcomes back into contexts, skills, beliefs, and experience.
+and the reverse structuring from valence N-felt outcomes back into contexts, skills, beliefs, and experience.
 The agent’s history is stored as learned structure. Each learned route extends what the agent can recognize, prepare, select, execute, remember, and hold as possible.
 The growth of the agent is therefore the growth of its Belief-horizon:
 
@@ -452,6 +453,6 @@ At any moment, the agent does not wake into an empty world. It wakes into an alr
 
 A simple bodily pressure, such as hunger, does not appear as an isolated signal. It enters this already structured field. Hunger activates Need-pressure, Need-pressure opens Experience, and Experience retrieves prior episodes in which food, search, access, delay, frustration, satisfaction, or social provision have been lived. From this, a Belief-field becomes available: possible routes through which the pressure can be regulated or fulfilled.
 
-The next layer of the model introduces the live evaluative variable X, which describes the viability of such possible paths. X evaluates whether a route can hold through context stability, skill executability, reachability, and value.
+The next layer of the model introduces the live evaluative variable X, which describes the viability of such possible paths. X evaluates whether a route can hold through context stability, skill executability, reachability, and valencability.
 
 After X is defined, the process layer can describe how Recognize–Execute, Try–Observe, and Reflection operate over the structures introduced here. The purpose of these processes is to keep the agent’s promises live enough for continuity to remain secured: to continue forward when a route holds, stabilize sideways when variants must be learned, and reflect upward when no available belief can yet carry the pressure.
