@@ -22,6 +22,10 @@ This means that what the agent "sees" is not merely objects, properties, and spa
 
 Action is the domain of skills. A skill is not only a motor command, but any executable pattern by which the agent can do something. Skills may be simple bodily movements, learned routines, attentional operations, social behaviors, or complex sequences of action. The Action domain stores what the agent can release and carry out when the right context is present.
 
+Perception and Action are tightly coupled, but they are not functionally identical. A context is the continuity-bearing structure: the situation, relation or field that must remain usable for the agent to continue. A skill is the mobile regulator: the executable pattern by which the agent preserves, transforms, repairs or leaves that context. In this sense, action is often more mobile than context. The agent can vary action, try alternatives, correct movement, ask, wait, reach, avoid or search. But the valuable thing is the usable context in which continuation remains possible.
+
+Beliefs bind this asymmetry. A belief claims that a certain skill can be used while a certain context holds. The skill is valuable because it can regulate the context; the context is valuable because it carries the possibility of continuation.
+
 Beliefs are the domain of action-beliefs. A belief is not primarily a detached proposition about the world. It is a functional claim that a certain skill can be used in a certain context. In its simplest form, a belief says: while in this context, this skill applies. Beliefs therefore bind Perception and Action together. They are the agent's usable possibilities of action from a recognized situation.
 
 Experience is the domain of learned transitions. It records what has happened when beliefs have been used: from which context the agent acted, which belief was applied, what new context or need-state followed, and whether the path became better or worse. Experience is therefore not memory as passive storage, but memory as structured consequence. It allows the agent to open possible continuations from the present context based on previous episodes.

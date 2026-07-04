@@ -407,6 +407,22 @@ $$C_i↔S_j↔C_k$$
 
 In learned action, this zip can unfold without reconstructing each step consciously. The zip is the structural basis for fluent Recognize–Execute behavior.
 
+Although the Context-Skill Zip is bidirectional, the two sides have different functional roles. Contexts are continuity-bearing structures. Skills are mobile regulators. A skill preserves, transforms, repairs, exits or searches for a context. A context is the structure in which continuation can hold.
+
+The relation can therefore be read as:
+
+$$
+\text{Skill regulates while Context carries continuity}
+$$
+
+or, in belief form:
+
+$$
+B_i : S_i \mid C_i
+$$
+
+This means that the skill is not valuable in isolation. It becomes valuable because it can keep, change or restore a context in which continuation remains possible.
+
 ## Belief-field, Belief-horizon, and Belief-blanket
 The Belief-field, Belief-horizon, and Belief-blanket are not separate domains. They are structural consequences of the graph.
 ### Belief-field
