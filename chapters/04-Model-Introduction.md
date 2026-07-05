@@ -18,7 +18,7 @@ The model is organized around five functional domains: Perception, Action, Belie
 
 Perception is the domain of contexts. It recognizes features, objects, relations, situations, and causes in the world. Perception does not merely create a neutral picture of the environment; it identifies where the agent is or what kind of situation it is in. In PABEN, contexts are not passive descriptions. They are possibility-fields: recognized situations that release and constrain action.
 
-This means that what the agent "sees" is not merely objects, properties, and spatial arrangements. What the agent sees is already structured by possible action. A cup is not only a visible object; it is something that may be reached for, lifted, avoided, filled, offered, thrown, cleaned, or ignored, depending on the active context and need-state. Perception therefore opens the world as a field of possible continuations.
+In this reading, what the agent ‘sees’ is not merely objects, properties, and spatial arrangements. What the agent sees is already structured by possible action. A cup is not only a visible object; it is something that may be reached for, lifted, avoided, filled, offered, thrown, cleaned, or ignored, depending on the active context and need-state. Perception therefore opens the world as a field of possible continuations.
 
 Action is the domain of skills. A skill is not only a motor command, but any executable pattern by which the agent can do something. Skills may be simple bodily movements, learned routines, attentional operations, social behaviors, or complex sequences of action. The Action domain stores what the agent can release and carry out when the right context is present.
 
@@ -56,7 +56,7 @@ A new belief therefore becomes meaningful only if it can hook into an already kn
 
 Reflection must always ensure at least one belief in the Belief-field. A state of no continuation causes expectancy to collapse.
 
-Learning in PABEN follows a conservative and constructive principle. New structure is established through priming, co-activation, and simultaneity. This means that learning is not treated as a detached optimization process. It is bound to attention and guided by emotion. The agent learns where something matters: where expectancy changes, where continuation becomes possible or impossible, where action succeeds or fails, where need-pressure is relieved or intensified. Emotion marks these changes in path viability and thereby helps determine which structures are stabilized, explored, avoided, repaired, or weakened.
+Learning in PABEN follows a conservative and constructive principle. New structure is established through priming, co-activation, and simultaneity. This suggests that learning is not treated as a detached optimization process. It is bound to attention and guided by emotion. The agent learns where something matters: where expectancy changes, where continuation becomes possible or impossible, where action succeeds or fails, where need-pressure is relieved or intensified. Emotion marks these changes in path viability and thereby helps determine which structures are stabilized, explored, avoided, repaired, or weakened.
 
 In this sense, learning in PABEN is constructive rather than editorial. The agent mostly builds forward by adding and strengthening connections. Old beliefs may become less dominant because newer paths outcompete them, bypass them, or fail to activate them, but the model does not rely on a central mechanism that continuously rewrites its entire structure. More specific mechanisms of emotional updating, including how successful closure strengthens paths and how realized loss can weaken them, are treated in the emotion layer of the model.
 
@@ -64,7 +64,7 @@ In this sense, learning in PABEN is constructive rather than editorial. The agen
 
 The central evaluative variable in the model is expectancy, abbreviated as X. Expectancy is not simply prediction. It is the estimated viability of a possible path. A path has high expectancy when the required context is stable, the required skill can be executed, the experience-structure offers continuation, and the path preserves access to need-regulation or fulfillment. A path has low expectancy when one or more of these conditions becomes unstable, uncertain, blocked, or unavailable.
 
-This gives the model four basic dimensions of path viability.
+This yields four basic dimensions of path viability.
 
 | Component | Guiding question |
 |---|---|

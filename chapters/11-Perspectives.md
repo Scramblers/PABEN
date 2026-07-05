@@ -5,7 +5,7 @@ The PABEN model is proposed as a model of agentic intelligence: how a system pre
 ## Intelligence
 The core PABEN pattern is not tied to human language, symbolic thought, or cultural sophistication. It begins with a more general structure: a system is under pressure to preserve continuity; it recognizes a current context; it has possible actions; it carries memory of what has happened before; it evaluates whether a route can continue; and it selects or creates the next viable path.
 
-In this form, the model points toward a broader idea of intelligence. Intelligence is not first the ability to solve abstract problems. It is the ability of a system to keep itself organized across change. A system becomes agentic when it can distinguish current state, possible action, prior consequence, and future viability well enough to regulate its own continuation. This suggests a general pattern:
+In this form, the model points toward a broader idea of intelligence. Intelligence is not first the ability to solve abstract problems. It is the ability of a system to keep itself organized across change. A system becomes agentic when it can distinguish current state, possible action, prior consequence, and future viability well enough to regulate its own continuation. This points toward a more general pattern:
 
 - there is a current surface or state
 - there are possible transformations
@@ -16,7 +16,7 @@ In this form, the model points toward a broader idea of intelligence. Intelligen
 
 In PABEN language, this becomes Context, Skill, Belief, Experience, Need, and Expectancy. At the human level these structures are psychological and neurobiological. At other levels they may take different forms. The claim is not that every system has human-like consciousness. The claim is that agentic intelligence may require a recognizably similar topology: state, transformation, memory, pressure, and viability-selection.
 
-This is where the model can be extended toward a speculative idea of universal intelligence. A cell, an organism, a group, a market, a legal system, or a technological system can all be interpreted as continuation-preserving structures if they contain the relevant elements: a boundary, a current state, possible actions, memory of consequences, pressures to regulate, and selection among future routes. PABEN then becomes a way to ask whether such systems are merely complex, or whether they are agentic.
+This is one place where the model can be extended toward a speculative idea of universal intelligence. A cell, an organism, a group, a market, a legal system, or a technological system can all be interpreted as continuation-preserving structures if they contain the relevant elements: a boundary, a current state, possible actions, memory of consequences, pressures to regulate, and selection among future routes. PABEN then becomes a way to ask whether such systems are merely complex, or whether they are agentic.
 
 ## Technology, Artificial Intelligence, and Constructed Agency
 PABEN also has implications for artificial intelligence. Current artificial systems can process information, generate language, recognize patterns, optimize goals, and simulate reasoning. The PABEN model asks a different question: does the system have its own continuity problem?

@@ -37,13 +37,13 @@ Failed emotion belongs to non-realization. A positive promise can fail to become
 Table 1 shows how the same positive or negative change in expectancy becomes different emotional qualities depending on where it occurs in the belief-process: recognition, open promise, realization, or failed realization.
 
 ## Promise: The Open Belief
-A promise is the state of a belief when it has become intended but has not yet been closed as lived. The agent has committed to the belief as a route, but the route has not yet proved whether it can carry. This is the basic emotional structure of expectation.
+A promise is the state of a belief when it has become intended but has not yet been closed as lived. The agent has committed to the belief as a route, but the route has not yet proved whether it can carry. This can be understood as the basic emotional structure of expectation.
 
 The promise is not verbal. It is structural. A belief promises that from this context, through this skill, a route can be lived toward a context where something can be handled. In compact form, the belief binds a required context and a prepared skill. When it is lived, it becomes an episode. Until it is closed, it is a promise.
 
 The promise creates exposure. While a belief is open, the agent is vulnerable to what happens to the route. If Trustability falls, the context no longer carries. If Executability falls, the skill no longer holds. If Reachability falls, the route no longer reaches the valence-bearing field. If Valencability falls, the route no longer matters or no longer relieves the active pressure. Each deformation changes the felt state of the agent.
 
-This explains why emotion is inseparable from action. To intend a belief is to expose oneself to the possibility that the world carries or fails to carry it. The agent does not merely think about the promise. It lives it. Emotion is the felt monitoring of whether the promise remains viable.
+In the model emotion becomes inseparable from action. To intend a belief is to expose oneself to the possibility that the world carries or fails to carry it. The agent does not merely think about the promise. It lives it. Emotion is the felt monitoring of whether the promise remains viable.
 
 A promise can also remain unresolved. If the belief neither succeeds nor fails cleanly, its emotional charge can persist. The open belief remains unfinished in Experience. The agent may return to it through rumination, longing, fear, resentment, guilt, hope, or repeated Reflection. Unresolved emotion is therefore not a mysterious residue. It is an unclosed promise whose $X$ remains unstable.
 
@@ -65,7 +65,7 @@ Social emotion arises when the deformation of X occurs inside shared belief-depe
 
 A shared belief creates an emotional contract. This contract does not need to be explicit. It is built into dependency. If I depend on you to carry a context, your action can raise or lower my X. If you depend on me to carry a context, my action can raise or lower yours. If a group depends on a shared belief, each participant becomes emotionally exposed to how the others use it.
 
-This is why social emotions are not reducible to private feelings. Anger, gratitude, shame, pride, envy, jealousy, guilt, humiliation, compassion, respect, betrayal, and loneliness all involve belief-dependencies that cross agents. They concern who carried the shared context, who damaged it, who received access, who was denied access, who gave support, who failed to respond, who was recognized, and who was excluded.
+This helps explain why social emotions cannot be reduced to private feelings alone. Anger, gratitude, shame, pride, envy, jealousy, guilt, humiliation, compassion, respect, and loneliness all involve belief-dependencies that cross agents. They concern who carried the shared context, who damaged it, who received access, who was denied access, who gave support, who failed to respond, who was recognized, and who was excluded.
 
 The social layer therefore interprets dX through four belief-dimensions: action/skill contribution, context preservation or disturbance, access and recognition, and fulfillment through attachment or care. These dimensions determine what kind of social emotion appears. If another agent supports a route I depend on, gratitude becomes available. If I support another agent’s route, duty or care becomes available. If another agent damages a shared context, indignation or anger becomes available. If I damage it, guilt or shame becomes available. If I am granted access to a valued group-context, pride and recognition become available. If I am denied access, humiliation, longing, jealousy, or exclusion-pressure can arise.
 
@@ -156,29 +156,20 @@ Exclusion closes a protection arc. If an agent repeatedly damages the internal b
 
 These social closure processes show that emotions are not only signals. They are action-tendencies toward re-stabilization. Recognition confirms contribution. Gratitude registers support. Love holds access to shared valence open. Forgiveness repairs damage. Exclusion protects the internal belief-field when repair fails. Together, they describe how social systems close emotional tension by confirming, registering, holding, repairing, or protecting the routes on which agents depend.
 
-## Emotional Contracts and the Logic of Social Obligation
-Social life is held together by implicit belief-contracts. These contracts specify what must be carried for the shared context to remain usable. They exist wherever agents depend on each other’s beliefs.
-
-Care implies gratitude. If one agent repeatedly supports another’s route, the receiver is expected to register and respect the contribution. Gratitude confirms that the support was not invisible. Without gratitude, care becomes socially unstable.
-
-Compassion implies respect. If one agent responds to another’s suffering, the receiver is expected to remain a recognized agent rather than become an object of pity. Respect prevents compassion from becoming domination or humiliation.
-
-Damage implies repair. If one agent lowers the viability of another’s route or of a shared context, the damaging agent is expected to acknowledge, repair, or make amends. Without repair, guilt and shame cannot close, and anger or exclusion-pressure remains active.
-
-Contribution implies recognition. If one agent successfully carries a belief that benefits the shared context, the group is expected to confirm the contribution. Without recognition, pride cannot close and the agent’s access to the shared context remains unstable.
-
-These contracts are not moral rules imposed from outside the model. They follow from the mechanics of shared X. If my path depends on your belief-use, your action changes my expectancy. If your path depends on mine, my action changes yours. Social emotion is the felt control layer that keeps these mutual dependencies from dissolving into unpredictability.
-
 ## Facial Expression as Communication of Internal State
 Facial expression can be understood as social communication of the agent’s internal dX state. An expression does not merely display a private feeling. It exposes the status of the agent’s belief-path to others. It says, in bodily form, that a route has opened, failed, threatened, carried, collapsed, or requires response.
+
+This makes facial expression theoretically important. If emotion is the deformation of expectancy, and facial expression expresses emotion, then facial expression is the partial externalization of the agent’s internal continuity-state. The face does not merely report that the agent has a feeling. It makes the agent’s current relation to continuation visible: whether the world still carries, whether the route is threatened, whether repair is needed, whether access is lost, or whether continuation has opened.
 
 Fear signals that the agent’s route is threatened and that aversive continuation is possible. Anger signals that a context or belief-dependency has been damaged or blocked and that correction is required. Joy signals that a route has carried and that continuation has opened. Sorrow signals that a valued route has collapsed or become unavailable. Shame signals that the agent’s own position in a valued context has been lowered. Pride signals that the agent’s contribution or route has been confirmed.
 
 In social contexts, expression is part of the regulatory machinery. A face can request help, warn others, demand repair, invite recognition, signal submission, offer reconciliation, show gratitude, display exclusion-pressure, or mark that a shared belief-field is unsafe. The expression changes the Belief-field of other agents. It is therefore not only an output of emotion. It is an action within the shared context.
 
-This explains why emotion becomes visible. Social agents need access to each other’s internal route-status because their paths are interdependent. If another agent is afraid, angry, ashamed, proud, grateful, or hurt, that state matters for the shared belief-field. Facial expression externalizes enough of the internal dX state for others to adjust their own beliefs, actions, and expectations.
+This suggests why emotion becomes visible. Social agents need access to each other’s internal route-status because their paths are interdependent. If another agent is afraid, angry, ashamed, proud, grateful, or hurt, that state matters for the shared belief-field. Facial expression externalizes enough of the internal dX state for others to adjust their own beliefs, actions, and expectations.
 
 Expression is also costly and therefore socially meaningful. To show shame, gratitude, grief, anger, pride, or fear is to expose one’s relation to the shared context. The face makes the internal promise-status visible: “I can carry this,” “I cannot carry this,” “you damaged this,” “I damaged this,” “I need repair,” “I recognize your contribution,” “I am still with you,” or “I am no longer safe here.” Facial expression is the social surface of belief-continuity.
+
+The face is therefore not only a display surface for private emotion. It is the social surface of internal regulation. It turns the agent’s inner $dX$ state into a visible condition in the shared world, allowing other agents to respond to the route-status before it has been verbally explained.
 
 ## Emotion, Attention, and Process-Switching
 Emotion controls attention because dX indicates where continuity is changing. A strong negative deformation pulls attention toward stabilization. A strong positive deformation can pull attention toward opportunity, desire, attachment, play, or completion. Emotion is therefore the bridge between evaluation and process-control.

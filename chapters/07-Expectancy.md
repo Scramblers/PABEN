@@ -121,20 +121,6 @@ $$X=0$$
 
 means that the current belief-route has no available continuation within the agent’s present structure.
 
-## X equals zero and aversive singularity
-X equals zero has different meanings depending on valence direction.
-For an appetitive path, X equals zero can mean that a desired route is closed. The agent may experience loss, grief, resignation, or the need to rebuild through another route.
-For an approaching aversive context, X equals zero is not closure. If the aversive pressure is still approaching and no belief-route remains reachable, the agent enters a singular state. This causes panic.
-
-Under approaching aversion, X equals zero means that no belief can carry continuation while action-pressure remains maximal. The system cannot select a viable belief, but it cannot stop. This produces undirected maximal activation: do-all.
-In compact form:
-
-$$R→0 while\; aversive\; pressure→max$$
-
-This is the panic singularity of the agent.
-
-Fear requires X greater than zero. Fear means that something aversive may happen, but some possible route still remains. Panic occurs when the aversive context approaches and no selectable belief can carry continuation.
-
 ## Expectancy change, dX
 Emotion enters when X changes.
 

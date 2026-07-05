@@ -31,7 +31,6 @@
 - X as path viability
 - Need as X-drop
 - X greater than zero
-- X equals zero and aversive singularity
 - Expectancy change, dX
 - Surprise
 - Potential
@@ -64,7 +63,6 @@
 - Self-Emotion: The Agent Judging Its Own Belief-Path
 - Social Emotion: Shared Beliefs and Emotional Contracts
 - Recognition, Gratitude, Love, Forgiveness, and Social Closure
-- Emotional Contracts and the Logic of Social Obligation
 - Facial Expression as Communication of Internal State
 - Emotion, Attention, and Process-Switching
 - Emotional Learning and Episode Update
