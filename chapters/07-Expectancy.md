@@ -56,7 +56,7 @@ and
 
 $$C_{valence}^E$$
 
-where C_surface (t) is the current Context-surface, and C_valence^E denotes a context-field retrieved through Experience: contexts that have previously carried beliefs with relevant felt need-consequences. It is not a direct Need-to-Context relation.
+where $C_{surface} (t)$ is the current Context-surface, and $C_{valence}^E$ denotes a context-field retrieved through Experience: contexts that have previously carried beliefs with relevant felt need-consequences. It is not a direct Need-to-Context relation.
 In compact form:
 
 $$R(B_{living},t)=Coherence(B_{blanket}^{promise},C_{surface} (t),C_{valence}^E )$$
