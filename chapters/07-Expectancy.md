@@ -195,7 +195,7 @@ Thus:
 
 $$Ep_j=(C_{from},B_{lived},N_{felt},C_{to} )$$
 
-does not imply that C_to was specified in advance. C_to is the context reached when the belief was closed and another continuation became available or necessary.
+does not imply that $C_{to}$ was specified in advance. $C_{to}$ is the context reached when the belief was closed and another continuation became available or necessary.
 The agent does not move as:
 
 <p align="center">

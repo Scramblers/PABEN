@@ -1,26 +1,54 @@
 # PABEN: A Process Architecture for Agentic Continuity
 
-PABEN is an exploratory process architecture for agentic continuity. The model proposes that an agent can be understood as a system that preserves viable continuation through five interacting domains: Perception, Action, Belief, Experience, and Need.
+I would like to share this independent, non-traditional process architecture called PABEN (Perception, Action, Belief, Experience, Need), and invite structural critique from people interested in AI alignment, agent architectures, and value learning.
 
-PABEN describes the control architecture of a living agent from the inside out. It is a formalization of the mechanics behind an emotion-regulated agent that acts, learns, experiences, and exhibits social behavior entirely through executable beliefs. By implementing a set of very specific architectural design choices, a series of highly sophisticated, emergent capabilities naturally unfold.
+PABEN is an exploratory process architecture for agentic continuity. It describes the control architecture of a living agent from the inside out: a first attempt to formalize the mechanics of an emotion-regulated agent that acts, learns, experiences, and exhibits social behavior through executable beliefs.
 
-## Architectural Design Choices (The Core Premises)
-The 5 foundational constraints built into the agent's processing engine:
+The points below highlight some of the main assumptions made in the model, and the implications or emergent properties that appear to follow from it.
 
-* **Agent-Centric Predictive Vision (Affordances)**: The system parses environment data exclusively as relational action-capabilities mapped to internal needs, bypassing static object classification.
-* **Multiplicative Expectancy Function ($X$)**: Predictability is calculated as the product of four conditional probabilities: Executability ($Q$), Trustability ($T$), Reachability ($R$), and Valencability ($V$).
-* **Emotions as a Dynamic Vector Signal ($dX$)**: "Emotions" are defined as the time-derivative of the expectancy function, representing a high-density signal carrying valence, amplitude, and causal attribution.
-* **Attentional Allocation through Max/Min Friction**: Consciousness operates as a resource-allocation mechanism, locking attention onto beliefs with the highest variance ($\text{Max}\vert{}dX\vert{}$).
-* **Primary Social Imbrication (Shared-Belief Bootstrapping)**: The agent initiates with shared-beliefs and universal animism, learning to differentiate itself from the environment rather than building social structures from scratch.
+## What the model assumes
 
-## Emergent Capabilities (The Computational Payoff)
-The 5 high-value behaviors that emerge organically from the engine:
+PABEN starts from a few simple assumptions:
 
-* **Automated Attention Economy**: Static variables decay into the background through the Trustability coefficient, while volatile vectors are automatically identified as intentional agents.
-* **Structural Empathy Engine**: Human social emotions (Guilt, Indignation, etc.) emerge natively when the $dX$ vector registers that an external agent caused a systemic disruption.
-* **Autonomous Coping Loops (Social Homeostasis)**: Social-emotional vector states trigger stabilization algorithms, deploying behavioral patches like Serving or Bonding to maintain equilibrium.
-* **Organic Cognitive Ontogeny (Developmental Scaling)**: The architecture allows for natural maturation, scaling from externally regulated nodes to internalized agency.
-* **Fractal Algorithmic Scalability**: The core design blocks scale fluidly from low-level sensory-motor navigation to macro-level multi-agent coordination based on continuity-preserving displacement.
+1. **An agent must keep going.**  
+   It must preserve a viable path from the situation it is in now toward something that can be handled, avoided, repaired, reached, or fulfilled.
+
+2. **The world is seen through possible action.**  
+   The agent does not first build a neutral picture of the world. It recognizes contexts as places where something can or cannot be done.
+
+3. **A belief is something executable.**  
+   In PABEN, a belief is not only a statement about the world. It is a live route: *do this skill while this context holds*.
+
+4. **Experience tells the agent what tends to carry.**  
+   The agent learns from lived episodes. It remembers which contexts, skills, and beliefs have previously led to relief, failure, interruption, repair, or fulfillment.
+
+5. **Emotion tells the agent when a route changes.**  
+   Emotion is modeled as the felt change in whether a belief-route can still carry. When expectancy changes, the agent feels it.
+
+6. **Social life comes first.**  
+   A human agent does not begin as a fully private individual. Early agency is carried by caregivers and shared belief-fields before it becomes internalized as private agency.
+
+## What follows from this
+
+Several consequences follow:
+
+1. **Attention is not arbitrary.**  
+   The agent attends to the belief-route where something important is changing, unstable, blocked, or opening.
+
+2. **Learning is not just error correction.**  
+   The agent learns from whether a lived route was carried, interrupted, repaired, confirmed, or abandoned.
+
+3. **Reflection is route repair.**  
+   When the current belief cannot carry, reflection searches for another way to connect context, skill, experience, and need.
+
+4. **Emotion becomes part of control.**  
+   Emotion is not added on top of cognition. It helps decide what matters, what must be repaired, and where consciousness is needed.
+
+5. **Social emotions become understandable.**  
+   Guilt, shame, pride, gratitude, indignation, care, and loneliness can be described as changes in shared belief-dependencies.
+
+6. **Alignment becomes less like value-labeling.**  
+   If values live inside need, action, memory, social dependency, and emotion, then alignment may require agents that preserve human continuity, not only agents that optimize stated preferences.
 
 ## Current Status
 
@@ -62,7 +90,7 @@ The full working manuscript can be found in the /chapters folder. A content over
 
 The manuscript introduces the model, its core assumptions, formal structures, process layer, emotion model, social-emotional layer, consciousness account, broader perspectives, testability criteria, and remaining refinement tasks.
 
-I am uncertain as to how accesible the manuscript is to understand. There are a lot of moving parts at once, and I really struggle myself and need a good day to make progress.
+I am uncertain as to how accessible the manuscript is to understand. There are a lot of moving parts at once, and I really struggle myself and need a good day to make progress.
 
 ## Studies
 

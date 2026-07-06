@@ -6,26 +6,40 @@ At the center of this architecture is the problem of maintaining usable continui
 
 PABEN separates this continuity into five domains: **Perception**, **Action**, **Belief**, **Experience**, and **Need**. These are not isolated modules, but different sides of the same regulatory structure. Perception recognizes the current world as contexts. Action carries skills that can transform or maintain those contexts. Beliefs bind context and skill into usable promises: *do this while this is true*. Experience remembers lived transitions between contexts. Need supplies the pressure that makes some transitions matter.
 
-In this view, a belief is not merely an idea. It is an executable expectation. It says that a certain skill, used in a certain context, can move the organism toward a more stable or more fulfilled state. This is why belief becomes the central unit of the model. The organism does not act directly on the world as raw matter. It acts through beliefs about which skills can be used in which contexts, and what those uses are expected to change.
+### The Topological Foundation: $B = S \mid C$
 
-The quality of such a belief is expressed as **Expectancy**:
+To understand how these domains interact, the framework establishes a formal graph-based topology. At the atomic core of this network is the functional definition of a Belief ($B$):
 
-$$
-X(B) = Q \cdot T \cdot R \cdot V
-$$
+![PABEN Domain Structure](./figures/02-Domain-Architecture.png)
 
-Here, **Q** is the executability of the skill, **T** is the trustability of the context, **R** is the reachability of the experienced path, and **V** is the valencability of the need-relief.
+It is not a passive, symbolic proposition about the world, but a live action-context commitment:
+
+$$B = S \mid C$$
+
+A belief is literally the structural anchor that says: **Do Skill ($S$) While Context ($C$) holds true.** 
+
+As shown in the architecture, the Belief node ($B$) acts as a central bridge binding the four surrounding domains together. The quality and structural integrity of this entire path is operationalized through the **Expectancy** function:
+
+$$X(B) = Q \cdot T \cdot R \cdot V$$
+
+The function calculates predictability in real-time as the product of four conditional probabilities branching out directly from the $B = S \mid C$ anchor:
 
 | Dimension             | Meaning                 | Stability Question                      |
 | --------------------- | ----------------------- | --------------------------------------- |
-| **Q / Executability** | Skill stability         | Can the skill be carried out reliably?  |
-| **T / Trustability**  | Context stability       | Can the context be trusted as usable?   |
-| **R / Reachability**  | Access and continuation | Is there a reachable path from here?    |
-| **V / Valencability** | Fulfillment access      | Will this actually matter for the need? |
+| **Q / Executability** | Skill stability ($P(S \mid B)$) | Can the skill be carried out reliably?  |
+| **T / Trustability**  | Context stability ($P(C \mid B)$) | Can the context be trusted as usable?   |
+| **R / Reachability**  | Access depth ($P(E \mid B)$) | Is there a reachable path from here?    |
+| **V / Valencability** | Fulfillment access ($P(N \mid B)$) | Will this actually matter for the need-relief? |
 
-A belief is strong when the organism can execute the skill, trust the context, reach the remembered route, and expect the result to matter. A belief weakens when one of these dimensions becomes uncertain, blocked, disturbed, or broken.
+In this view, a belief is not merely an idea. It is an executable expectation. It says that a certain skill, used in a certain context, can move the organism toward a more stable or more fulfilled state. This is why belief becomes the central unit of the model. The organism does not act directly on the world as raw matter. It acts through beliefs about which skills can be used in which contexts, and what those uses are expected to change.
+
+A belief is strong when the organism can execute the skill, trust the context, reach the remembered route, and expect the result to matter. A belief weakens when one of these dimensions becomes uncertain, blocked, disturbed, or broken. When an edge in this network topology collapses, it drops $X(B)$ toward zero, creating the vector friction ($dX$) that drives both emotional states and attentional allocation.
 
 This gives the model its basic engine. The organism opens beliefs when something must be stabilized or fulfilled. It acts through the best available belief. It observes whether the world remains within expectation. If the belief succeeds, continuity is strengthened. If it fails, the organism must repair, revise, search, or learn.
+
+
+
+
 
 The three major processes describe how this happens.
 
@@ -33,7 +47,7 @@ The three major processes describe how this happens.
 
 **Try–Observe** is the exploratory process. The organism varies action and observation in order to discover what works, refine skills, and distinguish usable context variants.
 
-**Reflection** is the repair and construction process. When the current belief-field cannot carry continuity, reflection searches for a new hook: a better context, a better skill, or a new belief that can restore viability.
+**Reflection** is the construction process. When the current belief-field cannot carry continuity, reflection searches for alternative context sets and skill sets to create a new belief that can restore viability.
 
 Consciousness, in this framework, is not placed outside the mechanism as a separate substance. It is the occupied part of the belief-field where stabilization is most urgent. **Attention** selects the belief with the strongest unresolved change. **Occupation** is drawn toward the domain where the unresolved change is greatest. Consciousness is therefore not everywhere at once; it is where the system most needs to restore or secure continuity.
 
@@ -52,9 +66,9 @@ This leads to one of the model’s most important findings: the basic emotions c
 | Belief Phase | Positive / Appetitive      | Negative / Aversive |
 | ------------ | -------------------------- | ------------------- |
 | Surprise     | Appetitive surprise        | Aversive surprise   |
-| Potential    | Desire / Lyst              | Fear / Frygt        |
-| Realised     | Joy / Glæde                | Sorrow / Sorg       |
-| Failed       | Disappointment / Skuffelse | Relief / Lettelse   |
+| Potential    | Desire              | Fear        |
+| Realised     | Joy                | Sorrow       |
+| Failed       | Disappointment | Relief   |
 
 The table is important because it suggests that emotions are not arbitrary labels. They emerge from the same regulatory structure that selects beliefs and guides action. A desired future is an open positive belief. Fear is an open negative belief. Joy is a successful positive closure. Sorrow is a realized negative outcome. Disappointment is a failed positive expectation. Relief is a failed negative expectation.
 
