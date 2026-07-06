@@ -1,18 +1,34 @@
-# PABEN
-A Process Architecture for Agentic Continuity
+# PABEN: A Process Architecture for Agentic Continuity
 
-
-## Abstract
 PABEN is an exploratory process architecture for agentic continuity. The model proposes that an agent can be understood as a system that preserves viable continuation through five interacting domains: Perception, Action, Belief, Experience, and Need.
 
-Perception recognizes the current context. Action prepares and releases skills. Belief selects live action-context routes: “do this skill while this context holds.” Experience stores lived transitions from one context, through a belief, into another context. Need supplies bodily or structural pressure, making some continuations matter.
+PABEN describes the control architecture of a living agent from the inside out. It is a formalization of the mechanics behind an emotion-regulated agent that acts, learns, experiences, and exhibits social behavior entirely through executable beliefs. By implementing a set of very specific architectural design choices, a series of highly sophisticated, emergent capabilities naturally unfold.
 
-The central evaluative variable is expectancy, $X$, which estimates whether a belief-route can carry. In the current formulation, $X$ combines Trustability, Executability, Reachability, and Valencability. Emotion is modeled as deformation of expectancy, $dX$: the felt change in the viability of a lived or expected route. This allows emotion, attention, learning, reflection, and social regulation to be described as parts of the same continuity-preserving control system.
+## Architectural Design Choices (The Core Premises)
+The 5 foundational constraints built into the agent's processing engine:
 
-PABEN is not presented as a finished theory. It is a candidate architecture intended for criticism, formalization, implementation, and possible refutation. A useful next step would be to build computational agents with explicit Contexts, Skills, Beliefs, Experience episodes, Need-pressure, and expectancy-based process switching, then test whether the architecture explains or produces coherent agentic behavior better than simpler alternatives.
+* **Agent-Centric Predictive Vision (Affordances)**: The system parses environment data exclusively as relational action-capabilities mapped to internal needs, bypassing static object classification.
+* **Multiplicative Expectancy Function ($X$)**: Predictability is calculated as the product of four conditional probabilities: Executability ($Q$), Trustability ($T$), Reachability ($R$), and Valencability ($V$).
+* **Emotions as a Dynamic Vector Signal ($dX$)**: "Emotions" are defined as the time-derivative of the expectancy function, representing a high-density signal carrying valence, amplitude, and causal attribution.
+* **Attentional Allocation through Max/Min Friction**: Consciousness operates as a resource-allocation mechanism, locking attention onto beliefs with the highest variance ($\text{Max}\vert{}dX\vert{}$).
+* **Primary Social Imbrication (Shared-Belief Bootstrapping)**: The agent initiates with shared-beliefs and universal animism, learning to differentiate itself from the environment rather than building social structures from scratch.
 
-The purpose of publishing this material is to make the model available as an open research seed. Researchers, engineers, independent thinkers, and AI alignment contributors are invited to inspect, challenge, formalize, simulate, or extend it.
+## Emergent Capabilities (The Computational Payoff)
+The 5 high-value behaviors that emerge organically from the engine:
 
+* **Automated Attention Economy**: Static variables decay into the background through the Trustability coefficient, while volatile vectors are automatically identified as intentional agents.
+* **Structural Empathy Engine**: Human social emotions (Guilt, Indignation, etc.) emerge natively when the $dX$ vector registers that an external agent caused a systemic disruption.
+* **Autonomous Coping Loops (Social Homeostasis)**: Social-emotional vector states trigger stabilization algorithms, deploying behavioral patches like Serving or Bonding to maintain equilibrium.
+* **Organic Cognitive Ontogeny (Developmental Scaling)**: The architecture allows for natural maturation, scaling from externally regulated nodes to internalized agency.
+* **Fractal Algorithmic Scalability**: The core design blocks scale fluidly from low-level sensory-motor navigation to macro-level multi-agent coordination based on continuity-preserving displacement.
+
+## Current Status
+
+The PABEN framework establishes a solid, graph-based foundation. The operational architecture, the process specifications (*Recognize-Execute*, *Try-Observe*, *Reflection*), and the core control loops are defined. 
+
+What is missing is the formal mathematical formulation and implementation. The high-level constraints are there (e.g., $X = Q \cdot T \cdot R \cdot V$), but the underlying inference algorithms, node updates, and graph calculus still need to be fully mapped out. I have the architectural blueprints and the functional requirements, and I am actively looking for researchers and mathematical engineers to help formalize the calculus and build the first minimal implementation.
+
+*For a quick, structural deep-dive into the formulas and the complete social emotion matrix behind these mechanics, see the [PABEN at a Glance](./summary.md) summary.*
 
 ## Why this may matter for alignment
 
@@ -30,17 +46,7 @@ The agent should select belief-routes by expectancy, update those estimates thro
 
 The useful test is not whether the terminology sounds plausible, but whether the architecture can be implemented, compressed, falsified, or shown to be unnecessary.
 
-## Feedback I am looking for
-
-I am especially interested in:
-
-- whether this resembles existing work in agent foundations, active inference, reinforcement learning, cognitive architectures, or computational neuroscience;
-- whether the $X$ formulation is mathematically salvageable;
-- whether the process distinctions are implementable;
-- whether the model makes testable predictions;
-- where the architecture is incoherent, redundant, or already refuted.
-
-And if it makes sense at all...
+The ultimate stretch ambition is to implement a functional PABEN system with under 100 nodes and 100 lines of code.
 
 ## Discussions
 
@@ -52,21 +58,21 @@ There are separate discussion threads for general impressions, clarity and consi
 
 ## Full Manuscript
 
-The full working manuscript is available here: [link](/chapters/00-Contents.md)
+The full working manuscript can be found in the /chapters folder. A content overview is available here: [link](/chapters/00-Contents.md)
 
 The manuscript introduces the model, its core assumptions, formal structures, process layer, emotion model, social-emotional layer, consciousness account, broader perspectives, testability criteria, and remaining refinement tasks.
 
+I am uncertain as to how accesible the manuscript is to understand. There are a lot of moving parts at once, and I really struggle myself and need a good day to make progress.
+
 ## Studies
 
-The studies/ folder contains supporting deep-dives and exploration of possible interpretation with the PABEN model. Their purpose is to place PABEN in relation to existing research areas and to ask whether the model offers a useful mechanical reading of known phenomena.
+The /studies folder contains supporting deep-dives I have made. I have leaned on science across many domains for inspiration and for understanding constraints, and the challenge has always been to master the essence without getting lost in every detail. I certainly did not hit every nail perfectly straight, but the model, with its many assumptions and simplifications, has a coherent alignment that makes the architecture of the PABEN model worth exploring.
 
 Current study themes include:
-
 - Biological Plausibility
 - Developmental Science Alignment
-- Universal Intelligence as Repeatable Displacement
-- Social Emotion, Attractors, Aversion and Emergent Regulation
-
+- Social Emotion, Attractors, Aversion, and Emergent Regulation
+- Universal Intelligence as Repeatable Displacement (speculative and biased, but fun)
 
 ## AI-Assisted Development
 
