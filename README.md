@@ -19,14 +19,14 @@ PABEN starts from a few simple assumptions:
 3. **A belief is something executable.**  
    In PABEN, a belief is not only a statement about the world. It is a live route: *do this skill while this context holds*.
 
-4. **Experience tells the agent what tends to carry.**  
+4. **Beliefs continue until Surprise.**  
+   The world interrupts a belief only through Surprise: recognition of something outside the active context-field.
+   
+5.  **Experience tells the agent what tends to carry.**  
    The agent learns from lived episodes. It remembers which contexts, skills, and beliefs have previously led to relief, failure, interruption, repair, or fulfillment.
 
-5. **Emotion tells the agent when a route changes.**  
+6. **Emotion tells the agent when a route changes.**  
    Emotion is modeled as the felt change in whether a belief-route can still carry. When expectancy changes, the agent feels it.
-
-6. **Social life comes first.**  
-   A human agent does not begin as a fully private individual. Early agency is carried by caregivers and shared belief-fields before it becomes internalized as private agency.
 
 ## What follows from this
 
